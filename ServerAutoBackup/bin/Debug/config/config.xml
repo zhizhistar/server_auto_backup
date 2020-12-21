@@ -1,0 +1,15 @@
+<basic>
+  <send_email_server>smtp.exmail.qq.com</send_email_server>
+  <send_email_address>star@cqzhizhi.com</send_email_address>
+  <send_email_password>Hq1314520</send_email_password>
+  <send_email_title>最新数据备份</send_email_title>
+  <send_email_body>最新数据备份</send_email_body>
+  <send_email_to_address>1037067594@qq.com</send_email_to_address>
+  <send_email_file_path>123456</send_email_file_path>
+  <db_address>127.0.0.1</db_address>
+  <db_prot>
+  </db_prot>
+  <db_user>sa</db_user>
+  <db_password>123456</db_password>
+  <db_name>demo</db_name>
+</basic>

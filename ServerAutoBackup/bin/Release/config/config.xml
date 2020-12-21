@@ -1,0 +1,26 @@
+<basic>
+  <send_email_server>
+  </send_email_server>
+  <send_email_address>
+  </send_email_address>
+  <send_email_password>
+  </send_email_password>
+  <send_email_title>
+  </send_email_title>
+  <send_email_body>
+  </send_email_body>
+  <send_email_to_address>
+  </send_email_to_address>
+  <send_email_file_path>
+  </send_email_file_path>
+  <db_address>
+  </db_address>
+  <db_prot>
+  </db_prot>
+  <db_user>
+  </db_user>
+  <db_password>
+  </db_password>
+  <db_name>
+  </db_name>
+</basic>

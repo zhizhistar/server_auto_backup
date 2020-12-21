@@ -1,0 +1,11 @@
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\bin\Debug\ServerAutoBackup.exe.config
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\bin\Debug\ServerAutoBackup.exe
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\bin\Debug\ServerAutoBackup.pdb
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\obj\Debug\ServerAutoBackup.BasicForm.resources
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\obj\Debug\ServerAutoBackup.Form1.resources
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\obj\Debug\ServerAutoBackup.Properties.Resources.resources
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\obj\Debug\ServerAutoBackup.csproj.GenerateResource.cache
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\obj\Debug\ServerAutoBackup.csproj.CoreCompileInputs.cache
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\obj\Debug\ServerAutoBackup.exe
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\obj\Debug\ServerAutoBackup.pdb
+D:\ServerAutoBackup\ServerAutoBackup\ServerAutoBackup\obj\Debug\ServerAutoBackup.csprojAssemblyReference.cache
